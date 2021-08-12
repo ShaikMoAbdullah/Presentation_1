@@ -69,6 +69,7 @@ It opens a interactive command mode where the top half portion will contain the 
 ~~~
     $ top
 ~~~
+
 >Note:
 >* **PR**: Stands for priority of the task.
 >* **SHR**: Represents the amount of shared memory used by a task.
